@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/l46CtSZN75aR6meE8/giphy.gif?cid=ecf05e47hqla0f3d412bk12zjb22okqhvbuvatwogxbn4qpo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 <h1 align="center">Hi 👋, I'm Mugesh Krishna</h1>
 <h3 align="center">A passionate Android developer pursuing CSE finial year</h3>
 
